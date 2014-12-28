@@ -1,7 +1,7 @@
-e-Yillik
+Social Student
 ========
 
-Sosyal Öğrenci Platformu
+Social Platform for Students
 
 ### Proje Adı
 Sosyal Öğrenci Platformu
